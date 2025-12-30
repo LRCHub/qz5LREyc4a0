@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ナツマトペ (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-30T15:34:52.427038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナツマトペ (=LOVE 6th ANNIVERSARY PREMIUM CONCERT)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_ナツマトペ_(=LOVE_6th_ANNIVERSARY_PREMIUM_CONCERT)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナツマトペ",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_ナツマトペ_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナツマトペ",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_ナツマトペ_=LOVE.txt"
+    }
+  ]
+}
